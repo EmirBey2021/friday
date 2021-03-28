@@ -1,1 +1,1 @@
-# friday
+# Eski Friday Bot
